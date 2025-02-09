@@ -11,8 +11,8 @@
         {
             "title": "How To Use MSX With Node.js",
             "playerLabel": "How To Use MSX With Node.js",
-            "image": "https://img.youtube.com/vi/61CFhMvAbFU/hqdefault.jpg",
-            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=61CFhMvAbFU"
+            "image": "https://fahadxai.github.io/msx/data/Left.png",
+            "action": "video:plugin:https://fahadxai.github.io/msx/data/Left.png"
         },
         {
             "title": "How To Use Google Drive MSX",
