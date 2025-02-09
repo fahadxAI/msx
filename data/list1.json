@@ -1,0 +1,16 @@
+{
+  "images": [
+    {
+      "label": "EC-L",
+      "image": "https://fahadxai.github.io/msx/Left.png"
+    },
+    {
+      "label": "QR Job",
+      "image": "https://fahadxai.github.io/msx/img/qrjob.jpg"
+    },
+    {
+      "label": "Left",
+      "image": "https://jlx3msmkttvho12gfxbcxmuxs7jqbvcm.ui.nabu.casa/local/Left.png"
+    }
+  ]
+}
