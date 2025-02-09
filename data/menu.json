@@ -81,12 +81,12 @@
         {
             "icon": "image",
             "label": "1",
-            "data": "https://fahadxAI.github.io/msx/data/list1.json"
+            "data": "https://fahadxAI.github.io/msx/data/base/list1.json"
         },
         {
             "icon": "image",
             "label": "2",
-            "data": "https://fahadxAI.github.io/msx/data/list2.json"
+            "data": "https://fahadxAI.github.io/msx/data/base/list2.json"
         }
     ]
 }
