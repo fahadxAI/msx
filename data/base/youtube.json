@@ -1,36 +1,22 @@
 {
     "type": "pages",
-    "headline": "YouTube",
+    "headline": "Images",
     "template": {
-        "type": "separate",
-        "layout": "0,0,3,3",
-        "color": "black",
-        "imageFiller": "cover"
+        "type": "default",
+        "layout": "0,0,3,2",
+        "color": "msx-glass",
+        "imageFiller": "cover",
+        "action": "image:context"
     },
     "items": [
         {
-            "title": "How To Use MSX With Node.js",
-            "playerLabel": "How To Use MSX With Node.js",
-            "image": "https://fahadxai.github.io/msx/data/Left.png",
-            "action": "video:plugin:https://fahadxai.github.io/msx/data/Left.png"
+            "titleFooter": "Image 1",
+            "image": "https://jlx3msmkttvho12gfxbcxmuxs7jqbvcm.ui.nabu.casa/local/EC-R.jpg"
         },
         {
-            "title": "How To Use Google Drive MSX",
-            "playerLabel": "How To Use Google Drive MSX",
-            "image": "https://img.youtube.com/vi/pfHOmhmeTzo/hqdefault.jpg",
-            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=pfHOmhmeTzo"
-        },
-        {
-            "title": "MRSS Launcher",
-            "playerLabel": "MRSS Launcher",
-            "image": "https://img.youtube.com/vi/tOAAg3h1_U8/hqdefault.jpg",
-            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=tOAAg3h1_U8"
-        },
-        {
-            "title": "TV Benchmark Tests",
-            "playerLabel": "TV Benchmark Tests",
-            "image": "https://img.youtube.com/vi/9A_I_ZqbWkM/hqdefault.jpg",
-            "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=9A_I_ZqbWkM"
+            "titleFooter": "Image 2",
+            "image": "https://jlx3msmkttvho12gfxbcxmuxs7jqbvcm.ui.nabu.casa/local/Right.png"
         }
+
     ]
 }
