@@ -11,19 +11,19 @@
     "items": [
         {
             "titleFooter": "Image 1",
-            "image": "http://msx.benzac.de/img/bg1.jpg"
+            "image": "http://FahadxAi.github.io/data/Left.png"
         },
         {
             "titleFooter": "Image 2",
-            "image": "http://msx.benzac.de/img/bg2.jpg"
+            "image": "http://FahadxAi.github.io/data/Right.png"
         },
         {
             "titleFooter": "Image 3",
-            "image": "http://msx.benzac.de/img/bg3.jpg"
+            "image": "http://FahadxAi.github.io/img/L2.jpg"
         },
         {
             "titleFooter": "Image 4",
-            "image": "http://msx.benzac.de/img/test.jpg"
+            "image": "http://FahadxAi.github.io/img/L3.jpg"
         }
     ]
 }
