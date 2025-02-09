@@ -11,19 +11,19 @@
     "items": [
         {
             "titleFooter": "Image 1",
-            "image": "http://FahadxAi.github.io/data/Left.png"
+            "image": "http://FahadxAi.github.io/data/img/Left.png"
         },
         {
             "titleFooter": "Image 2",
-            "image": "http://FahadxAi.github.io/data/Right.png"
+            "image": "http://FahadxAi.github.io/data/img/Right.png"
         },
         {
             "titleFooter": "Image 3",
-            "image": "http://FahadxAi.github.io/img/L2.jpg"
+            "image": "http://FahadxAi.github.io/data/img/L2.jpg"
         },
         {
             "titleFooter": "Image 4",
-            "image": "http://FahadxAi.github.io/img/L3.jpg"
+            "image": "http://FahadxAi.github.io/data/img/L3.jpg"
         }
     ]
 }
