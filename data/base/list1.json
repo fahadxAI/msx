@@ -1,16 +1,23 @@
 {
-  "images": [
-    {
-      "label": "EC-L",
-      "image": "https://fahadxai.github.io/msx/Left.png"
+    "type": "pages",
+    "headline": "list1",
+    "template": {
+        "type": "default",
+        "layout": "0,0,3,2",
+        "color": "msx-glass",
+        "imageFiller": "cover",
+        "action": "image:context"
     },
-    {
-      "label": "QR Job",
-      "image": "https://fahadxai.github.io/msx/img/qrjob.jpg"
-    },
-    {
-      "label": "Left",
-      "image": "https://jlx3msmkttvho12gfxbcxmuxs7jqbvcm.ui.nabu.casa/local/Left.png"
+    "items": [
+        {
+            "titleFooter": "Image 4",
+            "image": "https://jlx3msmkttvho12gfxbcxmuxs7jqbvcm.ui.nabu.casa/local/EC-R.jpg"
+        },
+
+        {
+            "titleFooter": "Image 6",
+            "image": "https://jlx3msmkttvho12gfxbcxmuxs7jqbvcm.ui.nabu.casa/local/Right.png"
     }
-  ]
+
+    ]
 }
