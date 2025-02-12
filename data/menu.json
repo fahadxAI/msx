@@ -17,8 +17,8 @@
         },
         {
             "icon": "music-note",
-            "label": "Audios",
-            "data": "https://FahadxAi.github.io/msx/data/base/audios.json"
+            "label": "lis1",
+            "data": "https://FahadxAi.github.io/msx/data/base/list1.json"
         },
         {
             "icon": "image",
