@@ -15,3 +15,31 @@
             "titleFooter": "Image 3",
            // "image": "https://jlx3msmkttvho12gfxbcxmuxs7jqbvcm.ui.nabu.casa/local/Left.png"
             "image": "https://jlx3msmkttvho12gfxbcxmuxs7jqbvcm.ui.nabu.casa/local/ramdan/leftmkatb2.jpg"
+
+
+
+right: 
+
+{
+    "type": "pages",
+    "headline": "list1",
+    "template": {
+        "type": "default",
+        "layout": "0,0,3,2",
+        "color": "msx-glass",
+        "imageFiller": "cover",
+        "action": "image:context"
+    },
+    "items": [
+        {
+            "titleFooter": "Image 4",
+            "image": "https://jlx3msmkttvho12gfxbcxmuxs7jqbvcm.ui.nabu.casa/local/VisitorQR.png"
+        },
+
+        {
+            "titleFooter": "Image 6",
+            "image": "https://jlx3msmkttvho12gfxbcxmuxs7jqbvcm.ui.nabu.casa/local/Right.png"
+    }
+
+    ]
+}
