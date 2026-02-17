@@ -11,15 +11,20 @@
     "items": [
         {
             "titleFooter": "Image 1",
-            "image": "https://jlx3msmkttvho12gfxbcxmuxs7jqbvcm.ui.nabu.casa/local/EC-L.jpg"
+          //"image": "https://jlx3msmkttvho12gfxbcxmuxs7jqbvcm.ui.nabu.casa/local/EC-L.jpg"
+            "image": "https://jlx3msmkttvho12gfxbcxmuxs7jqbvcm.ui.nabu.casa/local/ramdan/leftmkatb2.jpg"
         },
         {
             "titleFooter": "Image 2",
-            "image": "https://jlx3msmkttvho12gfxbcxmuxs7jqbvcm.ui.nabu.casa/local/qrjob.jpeg"
+           //"image": "https://jlx3msmkttvho12gfxbcxmuxs7jqbvcm.ui.nabu.casa/local/qrjob.jpeg"
+            "image": "https://jlx3msmkttvho12gfxbcxmuxs7jqbvcm.ui.nabu.casa/local/ramdan/qrjobr.jpg"
+
         },
         {
             "titleFooter": "Image 3",
-            "image": "https://jlx3msmkttvho12gfxbcxmuxs7jqbvcm.ui.nabu.casa/local/Left.png"
+           // "image": "https://jlx3msmkttvho12gfxbcxmuxs7jqbvcm.ui.nabu.casa/local/Left.png"
+            "image": "https://jlx3msmkttvho12gfxbcxmuxs7jqbvcm.ui.nabu.casa/local/ramdan/leftmkatb2.jpg"
+
     }
 
     ]
