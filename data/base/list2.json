@@ -2,15 +2,15 @@
   "images": [
     {
       "label": "Rules-Left",
-      "image": "https://i.ibb.co/W4C6LNWk/Rules-Left.png"
+      "image": "https://raw.githubusercontent.com/fahadxAI/msx/refs/heads/main/data/img/Left.png"
     },
     {
      "label": "Left",
-      "image": "https://i.ibb.co/dJkv604L/Left.png"
+      "image": "https://raw.githubusercontent.com/fahadxAI/msx/refs/heads/main/data/img/Efficiency%20Center%20-%20Left.png"
     },
     {
       "label": "Efficiency-Center-Left",
-      "image": "https://i.ibb.co/vxZSkLjL/Efficiency-Center-Left.png"
+      "image": "https://raw.githubusercontent.com/fahadxAI/msx/refs/heads/main/data/img/Efficiency%20Center%20-%20Left.png"
      
       
     }
