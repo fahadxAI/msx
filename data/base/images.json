@@ -1,29 +1,25 @@
 {
-    "type": "pages",
-    "headline": "Images",
-    "template": {
-        "type": "default",
-        "layout": "0,0,3,2",
-        "color": "msx-glass",
-        "imageFiller": "cover",
-        "action": "image:context"
+  "type": "pages",
+  "headline": "Images",
+  "template": {
+    "type": "default",
+    "layout": "0,0,3,2",
+    "color": "msx-glass",
+    "imageFiller": "cover",
+    "action": "image:context"
+  },
+  "items": [
+    {
+      "titleFooter": "Image 1",
+      "image": "https://raw.githubusercontent.com/fahadxAI/msx/refs/heads/main/data/img/Left.png"
     },
-    "items": [
-        {
-            "titleFooter": "Image 1",
-         
-            "image": "https://i.ibb.co/HLQfy1xk/EC-L.jpg"
-        },
-        {
-            "titleFooter": "Image 2",
-            "image": "https://i.ibb.co/hxBGwfqd/qrjob.jpg"
-
-        },
-        {
-            "titleFooter": "Image 3",
-            "image": "https://i.ibb.co/qYq7f3T4/Left.png"
-
+    {
+      "titleFooter": "Image 2",
+      "image": "https://raw.githubusercontent.com/fahadxAI/msx/refs/heads/main/data/img/Efficiency%20Center%20-%20Left.png"
+    },
+    {
+      "titleFooter": "Image 3",
+      "image": "https://raw.githubusercontent.com/fahadxAI/msx/refs/heads/main/data/img/Efficiency%20Center%20-%20Left.png"
     }
-
-    ]
+  ]
 }
