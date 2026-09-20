@@ -1,12 +1,18 @@
 {
   "images": [
     {
-      "label": "EC-R",
-      "image": "https://jlx3msmkttvho12gfxbcxmuxs7jqbvcm.ui.nabu.casa/local/EC-R.jpg"
+      "label": "Rules-Left",
+      "image": "https://i.ibb.co/W4C6LNWk/Rules-Left.png"
     },
     {
-      "label": "Right",
-      "image": "https://jlx3msmkttvho12gfxbcxmuxs7jqbvcm.ui.nabu.casa/local/Right.png"
+     "label": "Left",
+      "image": "https://i.ibb.co/dJkv604L/Left.png"
+    },
+    {
+      "label": "Efficiency-Center-Left",
+      "image": "https://i.ibb.co/vxZSkLjL/Efficiency-Center-Left.png"
+     
+      
     }
   ]
 }
