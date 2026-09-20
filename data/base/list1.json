@@ -11,12 +11,12 @@
     "items": [
         {
             "titleFooter": "Image 4",
-            "image": "https://i.ibb.co/DPSfdKB8/Right.png"
+            "image": "https://raw.githubusercontent.com/fahadxAI/msx/refs/heads/main/data/img/Right.png"
         },
 
         {
             "titleFooter": "Image 6",
-            "image": "https://i.ibb.co/ZpQjBMKk/Efficiency-Center-New-Rules-Screen-2-07.png"
+            "image": "https://raw.githubusercontent.com/fahadxAI/msx/refs/heads/main/data/img/Efficiency%20Center%20-%20New%20Rules%20Screen%202-07.png"
     }
 
     ]
