@@ -1,5 +1,5 @@
 {
-  "type": "pages",
+  "type": "list",
   "headline": "list2",
   "template": {
     "type": "default",
@@ -10,20 +10,16 @@
   },
   "items": [
     {
-      "images": [
-        {
-          "label": "Rules-Left",
-          "image": "https://raw.githubusercontent.com/fahadxAI/msx/refs/heads/main/data/img/Left.png"
-        },
-        {
-          "label": "Left",
-          "image": "https://raw.githubusercontent.com/fahadxAI/msx/refs/heads/main/data/img/Efficiency%20Center%20-%20Left.png"
-        },
-        {
-          "label": "Efficiency-Center-Left",
-          "image": "https://raw.githubusercontent.com/fahadxAI/msx/refs/heads/main/data/img/Efficiency%20Center%20-%20Left.png"
-        }
-      ]
+      "title": "Rules-Left",
+      "image": "https://raw.githubusercontent.com/fahadxAI/msx/refs/heads/main/data/img/Left.png"
+    },
+    {
+      "title": "Left",
+      "image": "https://raw.githubusercontent.com/fahadxAI/msx/refs/heads/main/data/img/Efficiency%20Center%20-%20Left.png"
+    },
+    {
+      "title": "Efficiency-Center-Left",
+      "image": "https://raw.githubusercontent.com/fahadxAI/msx/refs/heads/main/data/img/Efficiency%20Center%20-%20Left.png"
     }
   ]
 }
