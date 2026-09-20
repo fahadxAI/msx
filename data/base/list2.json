@@ -1,28 +1,29 @@
 {
-    "type": "pages",
-    "headline": "list2",
-    "template": {
-        "type": "default",
-        "layout": "0,0,3,2",
-        "color": "msx-glass",
-        "imageFiller": "cover",
-        "action": "image:context"
-    },
-    "items": [
-  "images": [
+  "type": "pages",
+  "headline": "list2",
+  "template": {
+    "type": "default",
+    "layout": "0,0,3,2",
+    "color": "msx-glass",
+    "imageFiller": "cover",
+    "action": "image:context"
+  },
+  "items": [
     {
-      "label": "Rules-Left",
-      "image": "https://raw.githubusercontent.com/fahadxAI/msx/refs/heads/main/data/img/Left.png"
-    },
-    {
-     "label": "Left",
-      "image": "https://raw.githubusercontent.com/fahadxAI/msx/refs/heads/main/data/img/Efficiency%20Center%20-%20Left.png"
-    },
-    {
-      "label": "Efficiency-Center-Left",
-      "image": "https://raw.githubusercontent.com/fahadxAI/msx/refs/heads/main/data/img/Efficiency%20Center%20-%20Left.png"
-     
-      
+      "images": [
+        {
+          "label": "Rules-Left",
+          "image": "https://raw.githubusercontent.com/fahadxAI/msx/refs/heads/main/data/img/Left.png"
+        },
+        {
+          "label": "Left",
+          "image": "https://raw.githubusercontent.com/fahadxAI/msx/refs/heads/main/data/img/Efficiency%20Center%20-%20Left.png"
+        },
+        {
+          "label": "Efficiency-Center-Left",
+          "image": "https://raw.githubusercontent.com/fahadxAI/msx/refs/heads/main/data/img/Efficiency%20Center%20-%20Left.png"
+        }
+      ]
     }
   ]
 }
