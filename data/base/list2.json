@@ -1,4 +1,14 @@
 {
+    "type": "pages",
+    "headline": "list2",
+    "template": {
+        "type": "default",
+        "layout": "0,0,3,2",
+        "color": "msx-glass",
+        "imageFiller": "cover",
+        "action": "image:context"
+    },
+    "items": [
   "images": [
     {
       "label": "Rules-Left",
