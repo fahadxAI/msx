@@ -9,17 +9,15 @@
     "action": "image:context"
   },
   "items": [
-    {
-      "titleFooter": "Image 1",
-      "image": "https://raw.githubusercontent.com/fahadxAI/msx/refs/heads/main/data/img/Left.png"
-    },
-    {
-      "titleFooter": "Image 2",
-      "image": "https://raw.githubusercontent.com/fahadxAI/msx/refs/heads/main/data/img/RulesLeft.png"
-    },
-    {
-      "titleFooter": "Image 3",
-      "image": "https://raw.githubusercontent.com/fahadxAI/msx/refs/heads/main/data/img/Efficiency%20Center%20-%20Left.png"
+        {
+            "titleFooter": "Image 1",
+            "image": "https://jlx3msmkttvho12gfxbcxmuxs7jqbvcm.ui.nabu.casa/local/VisitorQR.png"
+        },
+
+        {
+            "titleFooter": "Image 2",
+            "image": "https://jlx3msmkttvho12gfxbcxmuxs7jqbvcm.ui.nabu.casa/local/Right.png"
     }
-  ]
+
+    ]
 }
