@@ -8,16 +8,29 @@
         "imageFiller": "cover",
         "action": "image:context"
     },
+        },
     "items": [
         {
-            "titleFooter": "Image 4",
-            "image": "https://raw.githubusercontent.com/fahadxAI/msx/refs/heads/main/data/img/Right.png"
+            "titleFooter": "Image 1",
+          //"image": "https://jlx3msmkttvho12gfxbcxmuxs7jqbvcm.ui.nabu.casa/local/EC-L.jpg"
+            "image": "https://jlx3msmkttvho12gfxbcxmuxs7jqbvcm.ui.nabu.casa/local/ramdan/leftmkatb2.jpg"
         },
-
         {
-            "titleFooter": "Image 6",
-            "image": "https://raw.githubusercontent.com/fahadxAI/msx/refs/heads/main/data/img/Efficiency%20Center%20-%20New%20Rules%20Screen%202-07.png"
-    }
+            "titleFooter": "Image 2",
+           //"image": "https://jlx3msmkttvho12gfxbcxmuxs7jqbvcm.ui.nabu.casa/local/qrjob.jpeg"
+            "image": "https://jlx3msmkttvho12gfxbcxmuxs7jqbvcm.ui.nabu.casa/local/ramdan/qrjobr.jpg"
+
+        },
+        {
+            "titleFooter": "Image 3",
+           // "image": "https://jlx3msmkttvho12gfxbcxmuxs7jqbvcm.ui.nabu.casa/local/Left.png"
+            "image": "https://jlx3msmkttvho12gfxbcxmuxs7jqbvcm.ui.nabu.casa/local/ramdan/leftmkatb2.jpg"
+
+
+        }
 
     ]
 }
+
+
+
